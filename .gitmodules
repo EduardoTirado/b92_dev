@@ -1,0 +1,4 @@
+[submodule "community-data-files"]
+	path = community-data-files
+	url = git@github.com:OCA/community-data-files.git
+	branch = 12.0
